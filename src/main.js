@@ -65,5 +65,4 @@ document.querySelector('.again').addEventListener('click', function () {
     document.querySelector('.number').style.backgroundColor = 'black';
     document.querySelector('.number').style.width = 'maxContent';
     document.querySelector('.number').style.fontSize = '10rem';
-  
 });
